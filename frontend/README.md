@@ -11,8 +11,6 @@ Welcome to the FitVerse frontend repository! FitVerse is your ultimate gateway t
 
 ## Key Features
 
-- **Personalized Fitness Plans:** Tailored workout and nutrition plans to suit individual needs and goals.
-- **Progress Tracking:** Easily monitor your fitness journey with intuitive tracking tools and metrics.
-- **Comprehensive Resources:** Access to valuable insights and tips to enhance your fitness experience.
 - **View and Create Blogs:** Share and explore blog posts on fitness, wellness, and diet plans.
 - **Request for Diet Plans:** Submit requests for personalized diet plans to suit your fitness goals.
+- **BMI Calculation:** Instantly gauge your health status with our easy-to-use BMI calculator.
